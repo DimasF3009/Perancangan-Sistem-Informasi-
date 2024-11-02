@@ -5,3 +5,4 @@
 | ------------- | ------------- |------------- |
 | Agus Setiawan  | 312210193 | TI 22 A2 |
 | Dimas Firmasyah  | 312210267 | TI 22 A2 |
+| Najwa Iffa Fadhila | 312210275 | TI 22 A2 |
