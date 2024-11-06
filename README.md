@@ -8,4 +8,5 @@
 | Najwa Iffa Fadhila | 312210275 | TI 22 A2 |
 
 # Link PPT
-<a href="alamat yang akan diakses](https://github.com/DimasF3009/Perancangan-Sistem-Informasi-/blob/main/Perpustakaan.pdf">Melihat PPT disini</a>
+Berikut power point tentang gambaran projek kami
+<a href="https://github.com/DimasF3009/Perancangan-Sistem-Informasi-/blob/main/Perpustakaan.pdf"> Melihat PPT disini</a>
