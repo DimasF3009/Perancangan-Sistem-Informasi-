@@ -10,4 +10,4 @@
 # Link PPT
 Berikut power point tentang gambaran projek kami
 
-<a href="https://github.com/DimasF3009/Perancangan-Sistem-Informasi-/blob/main/Perpustakaan.pdf"> Melihat PPT disini</a>
+<a href=""> Melihat PPT disini</a>
